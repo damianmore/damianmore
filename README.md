@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Damian</h1>
 <h3 align="center">I am a 2nd-year CS student at UC Irvine really interested in learning about and understanding how to work with cloud infrastructure.</h3>
+
 ***
 
 - 🌱 I’m currently learning **Springboot, FastAPI, and AWS to study more in depth backend development**
@@ -7,14 +8,18 @@
 - 👯 I’m looking to collaborate on **any project! excited to work with any other developers who also love learning.**
 ***
 
-***
-
-- 📫 How to reach me **damiam6@uci.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/damian-moreno0126" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="damian-moreno0126" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/damian-moreno0126" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:damiam6@uci.edu" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
 </p>
+
+
 ***
 
 <h3 align="left">Languages and Tools:</h3>
