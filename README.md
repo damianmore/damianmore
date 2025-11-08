@@ -2,12 +2,14 @@
 <h3 align="center">I am a 2nd-year CS student at UC Irvine really interested in learning about and understanding how to work with cloud infrastructure.</h3>
 ***
 
-- 🌱 I’m currently learning **Springboot and more in depth backend development while trying to learn more about backend development**
+- 🌱 I’m currently learning **Springboot, FastAPI, and AWS to study more in depth backend development**
 
 - 👯 I’m looking to collaborate on **any project! excited to work with any other developers who also love learning.**
+***
+
+***
 
 - 📫 How to reach me **damiam6@uci.edu**
-***
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
