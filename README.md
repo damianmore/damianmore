@@ -3,7 +3,7 @@
 
 ***
 
-- 🌱 I’m currently learning **Springboot, FastAPI, and AWS to study more in depth backend development**
+- 🌱 I’m currently learning **Next.js, FastAPI, and AWS to study more in depth backend development**
 
 - 👯 I’m looking to collaborate on **any project! excited to work with any other developers who also love learning.**
 ***
