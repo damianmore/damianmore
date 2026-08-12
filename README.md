@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Damian</h1>
+<h1 align="center">Hi , I'm Damian</h1>
 <h3 align="center">I am a 2nd-year CS student at UC Irvine really interested in learning about and understanding how to work with cloud infrastructure.</h3>
 
 ***
 
-- 🌱 I’m currently learning **Next.js, FastAPI, and AWS to study more in depth backend development**
+-  I’m currently learning **Next.js, FastAPI, and AWS to study more in depth backend development**
 
-- 👯 I’m looking to collaborate on **any project! excited to work with any other developers who also love learning.**
+-  I’m looking to collaborate on **any project! excited to work with any other developers who also love learning.**
 ***
 
 
